@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+}
+
+.slika {
+    border-radius: 50%;
+}
+
+.ikonice {
+    border-radius: 50%;
+}
+
+.paragraf {
+    text-align: center;
+    color: royalblue;
+}
+
+.paragraf2 {
+    text-align: right;
+    color: burlywood;
+}
+
