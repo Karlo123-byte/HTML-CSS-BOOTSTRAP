@@ -1,0 +1,20 @@
+.carCard {
+	border: 1px solid black;
+	background-color: lightgray;
+	width: 350px;
+	text-align: center;
+}
+
+.car {
+	width: 100%;
+}
+
+.blackButton {
+	padding-right: 175px;
+}
+
+.colorButton {
+	background-color: black;
+	padding: 10px 25px;
+	color: white;
+}
